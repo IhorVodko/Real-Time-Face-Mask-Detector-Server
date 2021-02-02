@@ -1,0 +1,6 @@
+Name: easyloggingpp
+Description: Feature-rich single header C++ logging library
+Version: 9.96.7
+prefix=C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/easylogging++/out/install/x64-Debug (default)
+includedir=C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/easylogging++/out/install/x64-Debug (default)/include
+Cflags: -I${includedir}

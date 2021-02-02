@@ -1,0 +1,37 @@
+# Target labels
+ Main
+ opencv_highgui
+ Module
+# Source files and their labels
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/include/opencv2/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/include/opencv2/highgui/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/include/opencv2/highgui/highgui_c.h
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/src/window.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/src/roiSelector.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/src/window_w32.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/highgui/src/precomp.hpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/cvconfig.h
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/opencv2/opencv_modules.hpp
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/highgui/vs_version.rc
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/highgui/opencv_highgui_main.cpp

@@ -1,0 +1,70 @@
+# Target labels
+ Main
+ opencv_objdetect
+ Module
+# Source files and their labels
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/include/opencv2/objdetect.hpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/include/opencv2/objdetect/objdetect.hpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/cascadedetect.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/cascadedetect_convert.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/detection_based_tracker.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/hog.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/main.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/qrcode.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/opencl/cascadedetect.cl
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/opencl/objdetect_hog.cl
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/objdetect/opencl_kernels_objdetect.cpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/objdetect/opencl_kernels_objdetect.hpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/cascadedetect.hpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/src/precomp.hpp
+ Main
+ opencv_objdetect
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/cvconfig.h
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/opencv2/opencv_modules.hpp
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/objdetect/vs_version.rc
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/objdetect/opencv_objdetect_main.cpp
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/objdetect/opencl_kernels_objdetect.cpp.rule

@@ -1,0 +1,93 @@
+# Target labels
+ Main
+ opencv_videoio
+ Module
+# Source files and their labels
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio/cap_ios.h
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio/container_avi.private.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio/legacy/constants_c.h
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio/registry.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio/videoio.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/include/opencv2/videoio/videoio_c.h
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/precomp.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_dshow.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/videoio_registry.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/videoio_c.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_images.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_mjpeg_encoder.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_mjpeg_decoder.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/backend_plugin.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/backend_static.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/container_avi.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_dshow.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_msmf.hpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/src/cap_msmf.cpp
+ Main
+ opencv_videoio
+ Module
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/cvconfig.h
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/opencv2/opencv_modules.hpp
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/videoio/vs_version.rc
+C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/out/build/x64-Debug (default)/modules/videoio/opencv_videoio_main.cpp

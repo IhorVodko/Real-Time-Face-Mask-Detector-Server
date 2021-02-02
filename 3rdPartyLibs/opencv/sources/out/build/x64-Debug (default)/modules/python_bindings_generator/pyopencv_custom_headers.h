@@ -1,0 +1,12 @@
+//user-defined headers
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/core/misc/python/pyopencv_async.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/core/misc/python/pyopencv_cuda.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/core/misc/python/pyopencv_umat.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/objdetect/misc/python/pyopencv_objdetect.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/stitching/misc/python/pyopencv_stitching.hpp"
+#include "C:/Users/ihorf/source/repos/SS/internProj/3rdPartyLibs/opencv/sources/modules/gapi/misc/python/pyopencv_gapi.hpp"
